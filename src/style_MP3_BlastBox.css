@@ -1,0 +1,11 @@
+.root {
+  -fx-base: rgb(140, 190, 248);
+  -fx-background: rgb(246, 247, 242);
+}
+
+.button:hover {
+  -fx-background-color: rgb(67, 108, 221);
+  -fx-text-fill: black;
+  -fx-font-size: 13;
+  -fx-font-weight: bold;
+}

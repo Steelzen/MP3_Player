@@ -1,0 +1,31 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MP3_Player:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MP3_Player_jar</output-path>
+    <root id="archive" name="MP3_Player.jar">
+      <element id="module-output" name="MP3_Player" />
+      <element id="extracted-dir" path="/Library/Java/javafx-sdk-17.0.0-2.1/lib/javafx-swt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/Library/Java/javafx-sdk-17.0.0-2.1/lib/javafx.web.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/Library/Java/javafx-sdk-17.0.0-2.1/lib/javafx.base.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/Library/Java/javafx-sdk-17.0.0-2.1/lib/javafx.fxml.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/Library/Java/javafx-sdk-17.0.0-2.1/lib/javafx.media.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/Library/Java/javafx-sdk-17.0.0-2.1/lib/javafx.swing.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/Library/Java/javafx-sdk-17.0.0-2.1/lib/javafx.controls.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/Library/Java/javafx-sdk-17.0.0-2.1/lib/javafx.graphics.jar" path-in-jar="/" />
+      <element id="file-copy" path="/Library/Java/javafx-sdk-17.0.0-2.1/lib/libdecora_sse.dylib" />
+      <element id="file-copy" path="/Library/Java/javafx-sdk-17.0.0-2.1/lib/libjfxmedia.dylib" />
+      <element id="file-copy" path="/Library/Java/javafx-sdk-17.0.0-2.1/lib/libjfxwebkit.dylib" />
+      <element id="file-copy" path="/Library/Java/javafx-sdk-17.0.0-2.1/lib/libprism_common.dylib" />
+      <element id="file-copy" path="/Library/Java/javafx-sdk-17.0.0-2.1/lib/libprism_es2.dylib" />
+      <element id="file-copy" path="/Library/Java/javafx-sdk-17.0.0-2.1/lib/libprism_sw.dylib" />
+      <element id="file-copy" path="/Library/Java/javafx-sdk-17.0.0-2.1/lib/libfxplugins.dylib" />
+      <element id="file-copy" path="/Library/Java/javafx-sdk-17.0.0-2.1/lib/libglass.dylib" />
+      <element id="file-copy" path="/Library/Java/javafx-sdk-17.0.0-2.1/lib/libglib-lite.dylib" />
+      <element id="file-copy" path="/Library/Java/javafx-sdk-17.0.0-2.1/lib/libgstreamer-lite.dylib" />
+      <element id="file-copy" path="/Library/Java/javafx-sdk-17.0.0-2.1/lib/libjavafx_font.dylib" />
+      <element id="file-copy" path="/Library/Java/javafx-sdk-17.0.0-2.1/lib/libjavafx_iio.dylib" />
+      <element id="file-copy" path="/Library/Java/javafx-sdk-17.0.0-2.1/lib/libjfxmedia_avf.dylib" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/style_MP3_BlastBox.css" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/logo_MP3_BlastBox.png" />
+    </root>
+  </artifact>
+</component>
